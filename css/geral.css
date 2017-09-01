@@ -4,9 +4,10 @@
 }
 
 body {
-    background: size;
+    background: black;
     margin: 0 auto;
     padding: 0 auto;
+
 }
 
 section, footer {
@@ -15,6 +16,7 @@ section, footer {
 
 section {
     background: green;
+
 }
 
 footer {
@@ -23,5 +25,11 @@ footer {
 
 body > section > #corpo
 {
-    background: yellow;
+    background: white;
+
+}
+
+body{
+    #end
+    background: #0000FF;
 }
