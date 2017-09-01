@@ -1,0 +1,27 @@
+* {
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+body {
+    background: size;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+section, footer {
+    width: 1024px;
+}
+
+section {
+    background: green;
+}
+
+footer {
+    background: blue;
+}
+
+body > section > #corpo
+{
+    background: yellow;
+}
