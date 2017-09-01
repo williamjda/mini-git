@@ -4,32 +4,30 @@
 }
 
 body {
-    background: black;
+    background: #98FB98;
     margin: 0 auto;
     padding: 0 auto;
+
 
 }
 
 section, footer {
     width: 1024px;
+    color: blue;
 }
 
 section {
-    background: green;
+    background: blue;
 
 }
 
 footer {
     background: blue;
+    color:blue;
 }
 
 body > section > #corpo
 {
     background: white;
 
-}
-
-body{
-    #end
-    background: #0000FF;
 }
